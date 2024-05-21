@@ -45,7 +45,7 @@
 		문장입니다.
 	</p>
 	
-	<a href="/helloweb/hello?id=kickscar">hello로 가기</a>
+	<a href="/helloweb/hello?id=hui">hello로 가기</a>
 	<br>
 	<a href="/helloweb/form.jsp">form으로 가기</a>
 </body>
