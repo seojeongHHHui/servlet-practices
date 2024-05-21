@@ -6,7 +6,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>안녕하세요</h1><h2>안녕하세요</h2>
+	<h1>안녕하세요</h1>
+	<h2>안녕하세요</h2>
 	<h3>안녕하세요</h3>
 	<h4>안녕하세요</h4>
 	<h5>안녕하세요</h5>
@@ -34,8 +35,8 @@
 	
 	<br>
 	
-	<img src="http://localhost:8080/helloweb/images/loopy.jpg">
-	<img src="/helloweb/images/loopy.jpg">
+	<img src="http://localhost:8080/helloweb/images/bearggu.png">
+	<img src="/helloweb/images/bearggu.png">
 	<img src="images/bearggu.png">
 	
 	<p>
