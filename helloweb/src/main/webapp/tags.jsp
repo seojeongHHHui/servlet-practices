@@ -36,7 +36,7 @@
 	
 	<img src="http://localhost:8080/helloweb/images/loopy.jpg">
 	<img src="/helloweb/images/loopy.jpg">
-	<img src="images/loopy.jpg">
+	<img src="images/bearggu.png">
 	
 	<p>
 		문장입니다.<br>
