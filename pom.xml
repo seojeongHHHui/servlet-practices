@@ -5,7 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>helloweb</module>
+	<module>helloweb</module>
   	<module>emaillist1</module>
+  	<module>guestbook1</module>
   </modules>
 </project>
