@@ -25,15 +25,11 @@ public class GuestbookServlet extends HttpServlet {
 			String name = request.getParameter("name");
 			String password = request.getParameter("password");
 			String contents = request.getParameter("contents");
-			Date now = new Date();
-			SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
-			String regDate = dateFormat.format(now);
 			
 			GuestbookVo vo = new GuestbookVo();
 			vo.setName(name);
 			vo.setPassword(password);
 			vo.setContents(contents);
-			vo.setRegDate(regDate);
 			
 			new GuestbookDao().insert(vo);
 			
